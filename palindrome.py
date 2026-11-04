@@ -1,4 +1,8 @@
+# what is polindrome number
+# A Palindrome Number is a number that remains the same when we read it from left to right or right to left.
+# In simple words, the reverse of the number is equal to the original number.
 
+    
 num = 121
 temp = num
 rev = 0
